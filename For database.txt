@@ -1,0 +1,1 @@
+create database in mysqual named as admins and is all fine to go
